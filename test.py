@@ -1,4 +1,4 @@
-import qs
-res = qs.fewnucleonEmulator(1.38125,0.2075)
-for i in res:
-  print(i)
+pdf_e4he = pdf_e4he.reshape(cE_len,cD_len)  
+pdf_rp4he = pdf_rp4he.reshape(cE_len,cD_len) 
+pdf_e3h = pdf_e3h.reshape(cE_len,cD_len)   
+pdf_ft3h = pdf_ft3h.reshape(cE_len,cD_len)  
